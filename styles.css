@@ -1,0 +1,10 @@
+.table {
+  width: 250px;
+  height: 150px;
+  background: #ece8a9;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 6px 6px rgb(189, 0, 0);
+  color: red;
+  text-align: left;
+}
